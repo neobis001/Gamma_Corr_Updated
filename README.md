@@ -4,6 +4,7 @@ This is an "updated" version of Joey de Vries's sample code he provided in his L
 https://learnopengl.com/code_viewer_gh.php?code=src/5.advanced_lighting/2.gamma_correction/gamma_correction.cpp
 
 Changes:
+
 -I replaced function loading code involving GLAD with code involving GLEW, and I replaced image loading code involving "stb_image.h" with code involving SOIL.h.
 
 -I also updated some of the Shader function calls. Mainly changed use() to Use(), and used more functions of the form "glUniform". 
