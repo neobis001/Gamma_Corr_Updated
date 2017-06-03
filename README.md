@@ -1,5 +1,11 @@
 # Gamma_Corr_Updated
-This is an "updated" version of Joey de Vries's sample code he provided in his LearnOpenGL's "Gamma Correction" tutorial. The link to that tutorial is here: (note: I found there are hyperlinks in this site connecting to other files too.)
+This is an "updated" version of Joey de Vries's sample code he provided in his LearnOpenGL's "Gamma Correction" tutorial. I mention the changes below. 
+
+The link to that tutorial is here:
+
+https://learnopengl.com/#!Advanced-Lighting/Gamma-Correction
+
+The link to the code he provided is here: (note: I found there are hyperlinks in this site connecting to other files too.)
 
 https://learnopengl.com/code_viewer_gh.php?code=src/5.advanced_lighting/2.gamma_correction/gamma_correction.cpp
 
